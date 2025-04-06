@@ -1,4 +1,4 @@
-# Clarity Flow - Lexical Simplofication with BERT
+# Clarity Flow - Lexical Simplification with BERT
 
 The "Clarity-Flow" project aims to convert complex and convoluted language into simplified, easily understandable sentences. Identifies complex structures, and restructures them into simpler equivalents without compromising the original meaning or context.
 With its advanced algorithms, Clarity-flow can convert complex words and phrases into simple, easy-to-understand language, making it easier for team members to collaborate and work together and understand the meaning of complex words and phrases.
